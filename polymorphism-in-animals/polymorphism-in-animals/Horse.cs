@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace polymorphism_in_animals
+﻿namespace polymorphism_in_animals
 {
     internal class Horse : Animal
     {
